@@ -6,8 +6,13 @@ html, body {
   line-height: 1.5;
 }
 .contain{
-background-color:DeepSkyBlue;
+background-color:powderblue;
 display: flex;
 flex-wrap:flex;
 justify-content:center;
+}
+
+.Heading{
+  background-color:F1AFEC;
+  justify-content:center;
 }
