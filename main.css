@@ -78,3 +78,37 @@ background-image: url('http://cdn.playbuzz.com/cdn/c2c87635-a5da-468c-920a-3066b
 .dropdown:hover .dropbtn {
     background-color: powderblue;
 }
+.dropbtn1{
+	background-color:#F1AFEC;
+	border: 2px solid powderblue
+	text-align:left;
+	color:white;
+	padding:30px;
+}
+.dropdown1 {
+    position: relative;
+    display: inline-block;
+}
+.dropdown-content1 {
+    display: none;
+    position: absolute;
+    background-color: #F1AFEC;
+    min-width: 160px;
+    box-shadow: 0px 8px 16px 0px rgba(0,0,0,0.2);
+    z-index: 1;
+}
+.dropdown-content1 a {
+    color: white;
+    padding: 12px 16px;
+    text-decoration: none;
+    display: block;
+}
+.dropdown1:hover .dropdown-content1 {
+    display: block;
+}
+.dropdown1:hover .dropbtn1 {
+    background-color: powderblue;
+}
+.options{
+	display:inline;
+}
