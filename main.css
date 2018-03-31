@@ -22,14 +22,19 @@ justify-content:center;
 }
 
 .page {
-  border: 1px solid #000;
+  border: 2px solid #000;
   margin: 2px;
   text-align: center;
   padding: 30px;
   font-family:'Courier New';
 }
 .list{
-	display:inline;
+	  background-color:#F1AFEC;
+	text-align: center;
+	display:inline-block;
+	padding:10px;
+	margin:20px;
+	border: 2px hard #000
 }
 
 .vid{
