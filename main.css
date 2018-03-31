@@ -1,5 +1,4 @@
 html, body {
-  background-color:DeepSkyBlue;
   min-height: 100%;
   display: flex;
   flex-direction: column;
@@ -7,6 +6,7 @@ html, body {
   line-height: 1.5;
 }
 .container{
+  background-color:DeepSkyBlue;
 display: flex;
 flex-wrap:flex;
 justify-content:center;
