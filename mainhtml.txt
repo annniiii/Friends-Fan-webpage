@@ -2,7 +2,7 @@
 <html>
 <link rel="stylesheet" type="text/css" href="main.css">
 <div class="contain">
-<h1>PowerPuff Girls</h1>
+<h1>Friends</h1>
 <body>
 <img src="https://78.media.tumblr.com/34658cf6234259fa1d250c1889b91eca/tumblr_p41q9qStiF1uzjccio1_500.jpg">
 <p>Young Courtney Cox</p>
