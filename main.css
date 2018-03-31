@@ -28,3 +28,15 @@ justify-content:center;
   padding: 30px;
   font-family:'Courier New';
 }
+.list{
+	display:inline;
+}
+
+.vid{
+background-image: url('http://cdn.playbuzz.com/cdn/c2c87635-a5da-468c-920a-3066bd8332b0/7162d7aa-773a-4bfe-82cf-3ea61d5fca11.jpg');
+	background-repeat: no-repeat;
+  background-position:right;
+	display:inline;
+	padding:20px;
+	margin: 2px;
+}
