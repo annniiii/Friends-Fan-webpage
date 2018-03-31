@@ -5,7 +5,7 @@ html, body {
   font-weight: 300;
   line-height: 1.5;
 }
-.container{
+.contain{
   background-color:DeepSkyBlue;
 display: flex;
 flex-wrap:flex;
