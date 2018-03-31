@@ -15,6 +15,7 @@ justify-content:center;
 }
 
 .Heading{
+  background-image:url('http://www.solidbackgrounds.com/images/950x350/950x350-baby-pink-solid-color-background.jpg');
   background-color:#F1AFEC;
   justify-content:center;
   font-family: 'Courier New';
@@ -30,6 +31,7 @@ justify-content:center;
   font-family:'Courier New';
 }
 .list{
+	  background-image:url('http://www.solidbackgrounds.com/images/950x350/950x350-baby-pink-solid-color-background.jpg');
 	  background-color:#F1AFEC;
 	text-align: center;
 	display:inline-block;
@@ -48,8 +50,8 @@ background-image: url('http://cdn.playbuzz.com/cdn/c2c87635-a5da-468c-920a-3066b
 	margin: 2px;
 }
 .dropbtn{
-	background-color:#F1AFEC;
-	border: 2px solid powderblue
+	background-color:powderblue;
+	border: 2px solid #F1AFEC
 	text-align:left;
 	color:white;
 	padding:30px;
@@ -61,7 +63,7 @@ background-image: url('http://cdn.playbuzz.com/cdn/c2c87635-a5da-468c-920a-3066b
 .dropdown-content {
     display: none;
     position: absolute;
-    background-color: #F1AFEC;
+    background-color: powderblue;
     min-width: 160px;
     box-shadow: 0px 8px 16px 0px rgba(0,0,0,0.2);
     z-index: 1;
@@ -76,11 +78,11 @@ background-image: url('http://cdn.playbuzz.com/cdn/c2c87635-a5da-468c-920a-3066b
     display: block;
 }
 .dropdown:hover .dropbtn {
-    background-color: powderblue;
+    background-color:#F1AFEC;
 }
 .dropbtn1{
-	background-color:#F1AFEC;
-	border: 2px solid powderblue
+	background-color:powderblue;
+	border: 2px solid #F1AFEC
 	text-align:left;
 	color:white;
 	padding:30px;
@@ -92,7 +94,7 @@ background-image: url('http://cdn.playbuzz.com/cdn/c2c87635-a5da-468c-920a-3066b
 .dropdown-content1 {
     display: none;
     position: absolute;
-    background-color: #F1AFEC;
+    background-color: powderblue;
     min-width: 160px;
     box-shadow: 0px 8px 16px 0px rgba(0,0,0,0.2);
     z-index: 1;
@@ -107,8 +109,12 @@ background-image: url('http://cdn.playbuzz.com/cdn/c2c87635-a5da-468c-920a-3066b
     display: block;
 }
 .dropdown1:hover .dropbtn1 {
-    background-color: powderblue;
+   background-image:url('http://www.solidbackgrounds.com/images/950x350/950x350-baby-pink-solid-color-background.jpg');
 }
 .options{
+	background-image:url('http://www.solidbackgrounds.com/images/950x350/950x350-baby-pink-solid-color-background.jpg');
+	background-position:center;
 	display:inline;
+	border: 1px solid transparent;
+	justify-content:center;
 }
