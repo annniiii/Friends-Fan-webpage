@@ -6,7 +6,7 @@ html, body {
   line-height: 1.5;
 }
 .contain{
-  background-color:DeepSkyBlue;
+background-color:DeepSkyBlue;
 display: flex;
 flex-wrap:flex;
 justify-content:center;
